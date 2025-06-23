@@ -1,0 +1,28 @@
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.AssemblyInfoInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.AssemblyInfo.cs
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.csproj.CoreCompileInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.exe
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.deps.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.runtimeconfig.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\refint\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.genruntimeconfig.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\02 - Conditions imbriquées\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\ref\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.exe
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.deps.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.runtimeconfig.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\bin\Debug\net8.0\03-ListeGenerique.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.AssemblyInfoInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.AssemblyInfo.cs
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.csproj.CoreCompileInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\refint\03-ListeGenerique.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\03-ListeGenerique.genruntimeconfig.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-2\03-ListeGenerique\03-ListeGenerique\obj\Debug\net8.0\ref\03-ListeGenerique.dll

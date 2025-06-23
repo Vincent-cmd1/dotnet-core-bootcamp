@@ -1,0 +1,14 @@
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\bin\Debug\net8.0\Operation.exe
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\bin\Debug\net8.0\Operation.deps.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\bin\Debug\net8.0\Operation.runtimeconfig.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\bin\Debug\net8.0\Operation.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\bin\Debug\net8.0\Operation.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.AssemblyInfoInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.AssemblyInfo.cs
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.csproj.CoreCompileInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\refint\Operation.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\Operation.genruntimeconfig.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\Week-1\Operation\Operation\obj\Debug\net8.0\ref\Operation.dll

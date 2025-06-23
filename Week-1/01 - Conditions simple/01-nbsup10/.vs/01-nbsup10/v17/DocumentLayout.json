@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\Week-1\\01 - Conditions simple\\01-nbsup10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274478A4-69DC-454F-9066-E06DA6A33C44}|01-nbsup10\\01-nbsup10.csproj|c:\\users\\gtavi\\onedrive\\documents\\01_programmation\\dotnet-core-bootcamp\\week-1\\01 - conditions simple\\01-nbsup10\\01-nbsup10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274478A4-69DC-454F-9066-E06DA6A33C44}|01-nbsup10\\01-nbsup10.csproj|solutionrelative:01-nbsup10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\Week-1\\01 - Conditions simple\\01-nbsup10\\01-nbsup10\\Program.cs",
+              "RelativeDocumentMoniker": "01-nbsup10\\Program.cs",
+              "ToolTip": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\Week-1\\01 - Conditions simple\\01-nbsup10\\01-nbsup10\\Program.cs",
+              "RelativeToolTip": "01-nbsup10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:44:03.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
