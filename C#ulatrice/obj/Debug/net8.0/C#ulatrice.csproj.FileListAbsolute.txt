@@ -1,0 +1,15 @@
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\bin\Debug\net8.0\C#ulatrice.exe
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\bin\Debug\net8.0\C#ulatrice.deps.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\bin\Debug\net8.0\C#ulatrice.runtimeconfig.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\bin\Debug\net8.0\C#ulatrice.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\bin\Debug\net8.0\C#ulatrice.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.AssemblyInfoInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.AssemblyInfo.cs
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.csproj.CoreCompileInputs.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.sourcelink.json
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\refint\C#ulatrice.dll
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.pdb
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\C#ulatrice.genruntimeconfig.cache
+C:\Users\gtavi\OneDrive\Documents\01_Programmation\dotnet-core-bootcamp\C#ulatrice\obj\Debug\net8.0\ref\C#ulatrice.dll

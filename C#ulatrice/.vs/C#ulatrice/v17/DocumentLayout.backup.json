@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\C#ulatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0746D518-63F9-44B2-8606-0F5A0C0B2038}|C#ulatrice.csproj|c:\\users\\gtavi\\onedrive\\documents\\01_programmation\\dotnet-core-bootcamp\\c#ulatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746D518-63F9-44B2-8606-0F5A0C0B2038}|C#ulatrice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0746D518-63F9-44B2-8606-0F5A0C0B2038}|C#ulatrice.csproj|c:\\users\\gtavi\\onedrive\\documents\\01_programmation\\dotnet-core-bootcamp\\c#ulatrice\\menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746D518-63F9-44B2-8606-0F5A0C0B2038}|C#ulatrice.csproj|solutionrelative:menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\C#ulatrice\\Menu\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Menu\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\C#ulatrice\\Menu\\MenuPrincipal.cs",
+              "RelativeToolTip": "Menu\\MenuPrincipal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:46:03.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\C#ulatrice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gtavi\\OneDrive\\Documents\\01_Programmation\\dotnet-core-bootcamp\\C#ulatrice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:06:16.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
